@@ -24,6 +24,14 @@ I am currently learning and improving my skills in JavaScript, React, and Next.j
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,git,github" />
 </p>
 
+## 🔗 Connect With Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,c
+<p align="left">
+  <a href="https://www.linkedin.com/in/esrat-jahan-eva-0a8b723a5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+</p>
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esratcode\&show_icons=true\&theme=dark)
