@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Esrat Eva 👋
 
-<!--
-**esratcode/esratcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend Developer | React & Next.js Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a passionate web developer who enjoys building modern, responsive, and user-friendly web applications.
+
+I am currently learning and improving my skills in JavaScript, React, and Next.js. I enjoy creating clean user interfaces and exploring modern web development technologies.
+
+## 🚀 Currently
+
+* 🌱 Exploring Next.js and modern React development
+* 💻 Working on web development projects
+* 📚 Improving my JavaScript skills
+* 🎯 Building responsive and user-friendly websites
+* 🔍 Learning more about full-stack web development
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,c
