@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Esrat Eva - Frontend Developer" />
+</p>
+
 # Hi, I'm Esrat Eva 👋
 
 ### Aspiring Frontend Developer | React & Next.js Learner
