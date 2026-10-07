@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Esrat Eva - Frontend Developer" />
+  <img src="./banner.jpeg.jpeg" alt="Esrat Eva - Frontend Developer" />
 </p>
 
 # Hi, I'm Esrat Eva 👋
