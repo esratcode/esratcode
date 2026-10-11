@@ -39,3 +39,12 @@ I am currently learning and improving my skills in JavaScript, React, and Next.j
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esratcode\&show_icons=true\&theme=dark)
+
+
+## 🛒 Featured Project — Bazar Dor
+
+A daily market price tracker built to help users explore essential product prices, search and filter products, track price changes, and save their favorite products.
+
+* 🌐 **Live Website:** [Bazar Dor](https://bazar-dor-two-nu.vercel.app/)
+* 💻 **GitHub Repository:** [esratcode/bazar-dor](https://github.com/esratcode/bazar-dor)
+* 🛠️ **Tech Stack:** Next.js, React, Tailwind CSS, Better Auth
